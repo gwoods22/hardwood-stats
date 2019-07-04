@@ -4,10 +4,11 @@
 
 - Pull the `trailDataID` numbers from DOM
 
-## Info
+## Link
 
-[Hardwood Series][https://zone4.ca/event/f9efb59c-180c-11e9-bc0e-0a1b78ea1b5a/]
-[Pupeteer Tutorial][https://medium.com/@e_mad_ehsan/getting-started-with-puppeteer-and-chrome-headless-for-web-scrapping-6bf5979dee3e]
+[Hardwood Series](https://zone4.ca/event/f9efb59c-180c-11e9-bc0e-0a1b78ea1b5a/)
+
+[Pupeteer Tutorial](https://medium.com/@e_mad_ehsan/)
 
 ## Usage
 
