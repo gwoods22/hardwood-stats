@@ -1,14 +1,26 @@
 {
-  "name": "headless",
-  "version": "1.0.0",
-  "description": "Headless Chrome tutorial",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Graeme Woods",
-  "license": "ISC",
-  "dependencies": {
-    "puppeteer": "^1.16.0"
-  }
+	"name": "hardwood-stats",
+	"version": "0.1.0",
+	"description": "Hardwood Wednesday Night statistics and data",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Graeme Woods",
+	"license": "ISC",
+	"dependencies": {
+		"puppeteer": "^1.16.0"
+	},
+	"devDependencies": {
+		"prettier": "^1.18.2"
+	},
+	"prettier": {
+		"semi": true,
+		"useTabs": true,
+		"tabWidth": 2,
+		"singleQuote": true,
+		"trailingComma": "es5",
+		"bracketSpacing": false,
+		"arrowParens": "always"
+	}
 }
